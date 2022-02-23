@@ -1,8 +1,8 @@
 import Head from 'next/head';
-import styles from '../styles/Home.module.css';
-import MenuContainer from '../components/layouts/MenuContainer';
-import Header from '../components/layouts/Header';
-import FooterContainer from '../components/layouts/FooterContainer';
+import styles from 'styles/Home.module.css';
+import MenuContainer from 'components/layouts/MenuContainer';
+import Header from 'components/layouts/Header';
+import FooterContainer from 'components/layouts/FooterContainer';
 
 export default function Home() {
 	return (
